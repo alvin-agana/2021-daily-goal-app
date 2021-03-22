@@ -8,5 +8,5 @@ As I am planning to use this app for the rest of 2021, I plan to optimize my cod
 This is one of my favorite projects so far, and I've learned a lot about writing SQL queries, relational databases, and connecting the front-end with back-end web development.
 Here are some pictures of my applicaton:
 <br>
-![Alt text](/db2021_images/homepage.png?raw=true)
+![Alt text](https://github.com/alvin-agana/2021-daily-goal-app/blob/main/db2021_images/homepage.png)
 <br>
