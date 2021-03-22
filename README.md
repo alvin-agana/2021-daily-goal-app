@@ -8,5 +8,5 @@ As I am planning to use this app for the rest of 2021, I plan to optimize my cod
 This is one of my favorite projects so far, and I've learned a lot about writing SQL queries, relational databases, and connecting the front-end with back-end web development.
 Here are some pictures of my applicaton:
 <br>
-![Alt text](/db2021_images/homepage.png)
+![Alt text](/db2021_images/homepage.png?raw=true)
 <br>
