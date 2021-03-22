@@ -4,6 +4,7 @@ As I am planning to use this app for the rest of 2021, I plan to optimize my cod
   - Allowing multiple statement queries for one connection (I learned about this after I had coded all of my routes in App.js)
   - Fixing scripting file issues to have a separate file for all of my ejs scripts to reduce the redundancy
   - Implementing cool statistics to show, such as graphs :)
+ <br>
 This is one of my favorite projects so far, and I've learned a lot about writing SQL queries, relational databases, and connecting the front-end with back-end web development.
 Here are some pictures of my applicaton:
 <br>
