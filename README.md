@@ -10,10 +10,3 @@ Here are some pictures of my applicaton:
 <br>
 ![alt text](/db2021_images/homepage.png)
 <br>
-![alt text](/db2021_images/dailyreport.png)
-<br>
-![alt text](/db2021_images/manage.png)
-<br>
-![alt text](/db2021_images/managecoding.png)
-<br>
-![alt text](/db2021_images/overview.png)
